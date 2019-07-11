@@ -1,0 +1,9 @@
+D:\AccountApp\AccountApp\Account\bin\Debug\netstandard2.0\Account.deps.json
+D:\AccountApp\AccountApp\Account\bin\Debug\netstandard2.0\Account.dll
+D:\AccountApp\AccountApp\Account\bin\Debug\netstandard2.0\Account.pdb
+D:\AccountApp\AccountApp\Account\obj\Debug\netstandard2.0\Account.csprojAssemblyReference.cache
+D:\AccountApp\AccountApp\Account\obj\Debug\netstandard2.0\Account.csproj.CoreCompileInputs.cache
+D:\AccountApp\AccountApp\Account\obj\Debug\netstandard2.0\Account.AssemblyInfoInputs.cache
+D:\AccountApp\AccountApp\Account\obj\Debug\netstandard2.0\Account.AssemblyInfo.cs
+D:\AccountApp\AccountApp\Account\obj\Debug\netstandard2.0\Account.dll
+D:\AccountApp\AccountApp\Account\obj\Debug\netstandard2.0\Account.pdb

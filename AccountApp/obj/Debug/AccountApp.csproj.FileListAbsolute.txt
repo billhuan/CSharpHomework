@@ -1,0 +1,13 @@
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.csprojAssemblyReference.cache
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.Form1.resources
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.Properties.Resources.resources
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.GenerateResource.cache
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+D:\AccountApp\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+D:\AccountApp\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+D:\AccountApp\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+D:\AccountApp\AccountApp\AccountApp\bin\Debug\Account.dll
+D:\AccountApp\AccountApp\AccountApp\bin\Debug\Account.pdb
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CopyComplete
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+D:\AccountApp\AccountApp\AccountApp\obj\Debug\AccountApp.pdb
